@@ -1,0 +1,45 @@
+@media screen and (max-width: 760px){
+    body{
+        overflow-x: hidden;
+    }
+    .main-header .menu-desktop {
+        display: none;
+    }
+    .main-header  .menu-mobile .logo-menu{
+        display: block;
+    }
+    .w50{
+        width: 100%;
+        float: none;
+    }
+        .main-about .maxmargin{
+            max-width: 1024px;
+        }
+        .main-skills{
+            padding: 0 ;
+            
+        }
+        .containerskills{
+            flex-wrap: wrap;
+        }
+        .main-skills .single-skills{
+            width: 100%;
+            margin-bottom: 15px;
+        }
+       .service.w50{
+           text-align: center;
+       }
+}
+
+@media screen and (max-width: 320px){
+    .main-error{
+        font-size: 0.7em;
+    }
+}
+@media screen and (max-width: 200px){
+    .logo{
+        display: none;
+    }
+    
+
+}

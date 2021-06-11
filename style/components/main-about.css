@@ -1,0 +1,27 @@
+.main-about{
+    text-align: center;
+    padding: 20px;
+}
+.w50{
+    width: 50%;
+}
+.main-about .main-display .w50{
+    margin-top: 2px;
+}
+.aboutimg{
+    width: 100%;
+    margin-top: 5px;
+}
+.maxmargin{
+    max-width: 420px;
+}
+.main-about .main-subtitle.margintop{
+    margin-top: 20px;
+
+}
+.main-about .ul{
+    list-style-type: none;
+}
+.main-about .ul .li{
+    font-size: 1.2em;
+}

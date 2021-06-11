@@ -1,0 +1,13 @@
+.main-footer{
+    padding: 10px;
+    background-color: var(--color2);
+}
+.main-footer .main-p{
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+}

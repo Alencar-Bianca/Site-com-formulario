@@ -1,0 +1,34 @@
+.main-banners{
+    position: relative;
+    width: 100%;
+    height: 600px;
+}
+.layer{
+    position: relative;
+    left: 0;
+	top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000a8;
+    z-index: 2;
+}
+.main-banners .img-banner{
+    position: absolute;
+    left: 0;
+	top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+	background-position: center;
+    z-index: 1;
+    
+}
+.main-banners .main-display{
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    max-width: 500px;
+    padding: 0 2%;
+}

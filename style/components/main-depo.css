@@ -1,0 +1,22 @@
+.main-depo{
+    padding: 30px;
+}
+.main-depo .depositions{
+    max-width: 450px;
+}
+.main-depo .depositions .singledepoimento{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+}
+.main-depo .depositions .singledepoimento .main-p{
+    font-weight: lighter;
+    font-size: 1.2em;
+}
+
+.service .ul{
+    list-style-position: inside;
+}
+.service .ul .li{
+    font-size: 1.1em;
+    font-weight: lighter;
+}

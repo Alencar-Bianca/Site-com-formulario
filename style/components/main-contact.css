@@ -1,0 +1,15 @@
+.main-contact{
+    padding: 30px;
+}
+.main-contact .main-display{
+    max-width: 750px;
+    
+}
+.main-contact .button{
+    text-align: center;
+    max-width: 200px;
+    margin: auto;
+}
+.main-contact .bntcontato{
+    width: 50%;
+}
